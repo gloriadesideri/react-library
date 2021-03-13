@@ -11,17 +11,17 @@ const spread = (str) => {
     return result;
 
 }
- function queryBuilder(data) {
+ function queryBuilder(title,author,publisher) {
     let query = ''
 
-    if (data.title) {
-        query +='+intitle:'+ spread(data.title)
+    if (title) {
+        query +='+intitle:'+ spread(title)
     }
-    if (data.author) {
-        query += '+inauthor:' + spread(data.author)
+    if (author) {
+        query += '+inauthor:' + spread(author)
     }
-    if (data.bookPublisher) {
-        query += '+inpublisher:' + spread(data.publisher)
+    if (publisher) {
+        query += '+inpublisher:' + spread(publisher)
     }
     console.log(query)
 

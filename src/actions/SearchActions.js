@@ -5,7 +5,6 @@ export const fetchBooks =(query,index)=>dispatch=>{
    axios
         .get(`https://www.googleapis.com/books/v1/volumes?q=${query}&maxResults=40&orderBy=relevance&startIndex=${index}`)
         .then(response => {
-                console.log(response)
                 dispatch ({
                     type: FETCH_BOOKS,
                     payload: response.data
@@ -42,22 +41,4 @@ export const setLoading = () => {
         type: LOADING
     };
 };
-export const fetchBook =(query,index)=>dispatch=>{
-    axios
-        .get(`https://www.googleapis.com/books/v1/volumes?q=${query}&maxResults=40&orderBy=relevance&startIndex=${index}`)
-        .then(response => {
-                console.log(response)
-                dispatch ({
-                    type: FETCH_BOOKS,
-                    payload: response.data
-                })
-                dispatch(
-                    {
-                        type:SET_INDEX,
-                        payload:40
-                    }
-                )
-            }
-        )
-        .catch(err => console.log(err));
-};
+

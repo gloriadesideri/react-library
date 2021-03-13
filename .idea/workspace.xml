@@ -1,10 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41833a75-61f2-43bb-b5a0-0002c9300c96" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/craco.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Body/SearchForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Body/SearchForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Body/helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Body/helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Body/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Body/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/BookView/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/BookView/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Books/BookCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Books/BookCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Books/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Books/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/SearchActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/SearchActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/searchReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/searchReducer.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nwKRaGUg94XQ9NifqBq1m2NHfp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../LAVORO/MybusinessPlus/TheWallPost" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Body" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Start2Impact\React\react-library\src" />
+      <recent name="C:\Users\User\Documents\Start2Impact\React\react-library\src\Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Start2Impact\React\react-library\src\Components\Body" />
+      <recent name="C:\Users\User\Documents\Start2Impact\React\react-library\src\Components" />
+      <recent name="C:\Users\User\Documents\Start2Impact\React\react-library\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41833a75-61f2-43bb-b5a0-0002c9300c96" name="Default Changelist" comment="" />
+      <created>1612295705187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612295705187</updated>
+      <workItem from="1612295707560" duration="5889000" />
+      <workItem from="1614459806795" duration="3164000" />
+      <workItem from="1614536827461" duration="1732000" />
+      <workItem from="1614669926453" duration="2262000" />
+      <workItem from="1614721358207" duration="45000" />
+      <workItem from="1615055284513" duration="12592000" />
+      <workItem from="1615136328799" duration="7201000" />
+      <workItem from="1615274665426" duration="25000" />
+      <workItem from="1615589330565" duration="961000" />
+      <workItem from="1615624349982" duration="2680000" />
+      <workItem from="1615655703541" duration="4789000" />
+      <workItem from="1615661047924" duration="1071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="84" key="#ESLint" timestamp="1615144137811">
+      <screen x="0" y="0" width="1333" height="849" />
+    </state>
+    <state x="261" y="84" key="#ESLint/0.0.1333.849@0.0.1333.849" timestamp="1615144137811" />
   </component>
 </project>

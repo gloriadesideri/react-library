@@ -4,7 +4,6 @@ const initialState={
     query:'',
     books:[],
     loading:false,
-    book:[],
 
 }
 export default function (state=initialState,action) {
